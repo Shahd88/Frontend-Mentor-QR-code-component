@@ -36,6 +36,7 @@ body {
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
     padding: 10px;
+    box-shadow: 10px 10px 20px rgb(228 228 228);
 }
 
 .front {
